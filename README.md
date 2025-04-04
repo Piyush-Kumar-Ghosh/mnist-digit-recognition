@@ -12,4 +12,4 @@ This repo includes a clean, well-documented Jupyter Notebook that walks through:
 
 🔍 The notebook is self-contained and beginner-friendly — perfect for showcasing basic deep learning concepts.
 
-👉 [Open the notebook](mnist-digit-recognition-cnn.ipynb)
+👉 [Open the notebook](mnist_digit_recognition_cnn.ipynb)
